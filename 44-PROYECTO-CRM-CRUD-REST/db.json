@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Selien",
+      "email": "selien@gmail.com",
+      "telefono": "3544060606",
+      "empresa": "Selien Yorbandi",
+      "id": 27
+    },
+    {
+      "nombre": "Paz",
+      "email": "Paz@pollard.com",
+      "telefono": "3544070707",
+      "empresa": "Paz Pollard Traducciones",
+      "id": 28
+    },
+    {
+      "nombre": "Juan Perez",
+      "email": "juancito@perez.com",
+      "telefono": "3510202020",
+      "empresa": "Juan Perez SRL",
+      "id": 29
+    }
+  ]
+}

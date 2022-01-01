@@ -8,3 +8,4 @@ Los siguientes proyectos fueron realizados en el marco de  un curso de Javascrip
 5 - [Consulta a API para el Clima](https://selienyorbandi.github.io/Practica-Javascript/36-PROYECTO-Clima/).
 6 - [Buscador de imágenes de la API Pixabay](https://selienyorbandi.github.io/Practica-Javascript/42-PROYECTO-AsyncAwait-Pixabay/).
 7 - [Consulta de valores a API de Criptomonedas](https://selienyorbandi.github.io/Practica-Javascript/43-PROYECTO-AsyncAwait-Criptomonedas/).
+8 - [CRM-CRUD-REST Lista de Clientes](https://selienyorbandi.github.io/Practica-Javascript/44-PROYECTO-CRM-CRUD-REST/)
